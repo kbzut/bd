@@ -1,0 +1,7 @@
+1. Poka¿ nazwê produktu oraz iloœæ zamówionych sztuk danego produktu, od iloœci najwiêkszej do najmniejszej.
+
+2. Poka¿ najstarszego oraz najm³odszego pracownika. Nie mo¿na u¿yæ warunku: kolumna = "konkretna data". 
+
+3. Poka¿ listê krajów z których pochodz¹ klienci, uporz¹dkowan¹ malej¹co wed³ug iloœci klientów z danego kraju.
+
+4. Ile ³¹cznie zarobi³a firma na swoich produktach.
