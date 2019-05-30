@@ -1,5 +1,5 @@
-1. Poka¿ nazwê kategorii która posiada najwy¿sz¹ ³¹czn¹ kwot¹ nale¿¹cych do niej produktów.
-2. Poka¿ nazwy produktów które w nazwie zawieraj¹ "si".
-3. Wypisz nazwy zaopatrzeniowców oraz ³¹czn¹ kwotê produktów w które zaopatruj¹ sklep, ³¹czna wartoœc produktówma byæ wiêksza ni¿ 100.
-4. Poka¿ nazwê najbardziej zapracowanego "zaopatrzeniowca" oraz sumê zamówieñ które musia³ wykonaæ.
-5. Poka¿ nazwy dostawców oraz iloœæ wykonanych dostaw.
+1. PokaÅ¼ nazwÄ™ kategorii ktÃ³ra posiada najwyÅ¼szÄ… Å‚Ä…cznÄ… kwotÄ… naleÅ¼Ä…cych do niej produktÃ³w.
+2. PokaÅ¼ nazwy produktÃ³w ktÃ³re w nazwie zawierajÄ… "si".
+3. Wypisz nazwy pierwszego i ostatniego zaopatrzeniowcÃ³w oraz Å‚Ä…cznÄ… kwotÄ™ produktÃ³w w ktÃ³re zaopatrujÄ… sklep, Å‚Ä…czna wartoÅ›c produktÃ³wma byÄ‡ wiÄ™ksza niÅ¼ 100.
+4. PokaÅ¼ nazwÄ™ najbardziej zapracowanego "zaopatrzeniowca" oraz sumÄ™ zamÃ³wieÅ„ ktÃ³re musiaÅ‚ wykonaÄ‡.
+5. PokaÅ¼ nazwy dostawcÃ³w oraz iloÅ›Ä‡ wykonanych dostaw.
