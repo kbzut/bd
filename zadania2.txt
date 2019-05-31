@@ -1,5 +1,0 @@
-1. Pokaż nazwę kategorii która posiada najwyższą łączną kwotą należących do niej produktów.
-2. Pokaż nazwy produktów które w nazwie zawierają "si".
-3. Wypisz nazwy pierwszego i ostatniego zaopatrzeniowców oraz łączną kwotę produktów w które zaopatrują sklep, łączna wartośc produktówma być większa niż 100.
-4. Pokaż nazwę najbardziej zapracowanego "zaopatrzeniowca" oraz sumę zamówień które musiał wykonać.
-5. Pokaż nazwy dostawców oraz ilość wykonanych dostaw.
